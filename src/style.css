@@ -1,0 +1,9 @@
+body {
+  background-color: #2b2a33;
+  color: #ffffe0;
+}
+
+.error {
+  color: #ca3056;
+  font-size: smaller;
+}
